@@ -85,26 +85,6 @@ Backend Engineer with 4+ years of experience building scalable systems at Enxsys
 
 ---
 
-## 💼 Professional Experience
-
-### Enxsys
-**Software Engineer** | July 2023 - Present (2 years 5 months)
-
-### xiQ Inc.
-**Software Engineer** | March 2022 - February 2023 (1 year)
-
-### Techdots
-**Software Engineer** | February 2023 - July 2023 (6 months)
-
-### Datalatics
-**Associate Software Engineer** | December 2020 - May 2021 (6 months)
-- Database design and maintenance with NoSQL (MongoDB) and SQL databases
-- Built REST APIs with Node.js, Express.js, and NestJS
-- Implemented authentication, session management, and error handling
-- Developed frontend features with React, Redux, and Material-UI
-
----
-
 ## 📈 Contribution Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mateenqazi&theme=react-dark&hide_border=true&area=true)
