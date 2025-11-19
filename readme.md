@@ -2,17 +2,17 @@
 
 ### Backend Developer | Golang • Python • Node.js • AWS | Building High-Performance Systems
 
-Software Engineer at Enxsys with a Master's in High Integrity Systems from Frankfurt University of Applied Sciences. Passionate about building scalable, robust backend systems and cloud infrastructure.
+Backend Engineer with 4+ years of experience building scalable systems at Enxsys and xiQ. Specialized in Golang microservices, cloud infrastructure on AWS, and payment system integrations. Focused on delivering high-performance backend solutions for enterprise platforms.
 
 ---
 
 ## 🚀 About Me
 
 - 💼 **Software Engineer @ Enxsys** - Building scalable backend systems with Golang & AWS
-- 🎓 **MS in High Integrity Systems** - Frankfurt University of Applied Sciences
-- 🔧 Specialized in microservices, cloud architecture, and payment systems
+- 🔧 **4+ years of experience** in backend development and cloud infrastructure
+- 💳 Specialized in microservices, payment systems, and distributed architectures
 - 🌍 Based in **Frankfurt Rhine-Main Metropolitan Area, Germany**
-- 🎯 Focus: Backend engineering, distributed systems, and cloud infrastructure
+- 🎯 Focus: High-performance backend systems, AWS cloud solutions, and API development
 - 📫 Reach me: **mateenqazi125@gmail.com**
 
 ---
@@ -74,61 +74,14 @@ Software Engineer at Enxsys with a Master's in High Integrity Systems from Frank
 
 ## 🏆 Key Achievements
 
-**🚀 Cloud Infrastructure & Performance**
-- Migrated multiple AWS Lambda functions from Node.js to Golang, achieving **40% reduction in cold start times** and improved overall performance
-- Refactored cloud infrastructure to optimize resource utilization and cost efficiency
-- Implemented comprehensive monitoring solutions with CloudWatch for better production system visibility
-
-**💳 Payment Systems Integration**
-- Designed and integrated third-party payment APIs using Golang middleware
-- Enhanced transaction processing efficiency by **30%** through optimized API calls and error handling
-- Reduced payment processing response times significantly with improved architecture
-
-**🏗️ Architecture & System Design**
-- Led migration of legacy monolithic systems to **Domain-Driven Design (DDD)** principles
-- Improved code organization, maintainability, and team collaboration through better architectural patterns
-- Established clean architecture boundaries and improved system modularity
-
-**📊 Database Optimization**
-- Redesigned database schemas to handle **3x increased load** without performance degradation
-- Optimized complex queries, reducing average response times by **50%**
-- Implemented effective indexing strategies and query optimization techniques
-
-**🔧 Developer Experience & Quality**
-- Established integration testing frameworks and comprehensive testing strategies across teams
-- Developed internal backend APIs and dashboards for stakeholder requirements
-- Implemented logging solutions and debugging tools for faster issue resolution
-- Contributed to CI/CD pipeline improvements using AWS best practices
-
-**🛡️ Production Reliability**
-- Maintained **99.9% uptime** through proactive monitoring and on-call support
-- Troubleshot critical production issues with rapid response and resolution
-- Ensured system reliability through comprehensive alerting and monitoring systems
-
-**🤖 AI Platform Development**
-- Core contributor to complete rebuild of AI-powered sales and marketing SaaS platform
-- Developed full-stack solutions: backend APIs, frontend components, and AI integration
-- Built platform serving **multi-billion dollar stakeholders** for unified business functions
-
-**📧 High-Volume Data Processing**
-- Engineered scalable email processing system handling **1000+ emails per job**
-- Implemented efficient batch processing and queue management
-- Optimized code architecture for concurrent processing and resource management
-
-**🔍 Search & Analytics Implementation**
-- Integrated **Elasticsearch** with backend APIs for advanced search functionality
-- Implemented comprehensive event logging system for enhanced monitoring and analytics
-- Developed real-time analytics capabilities for actionable user insights
-
-**🔔 Real-Time Communication Systems**
-- Built backend systems for email-based workflows and push notification services
-- Improved user engagement through timely and relevant notifications
-- Developed reliable message delivery systems with fault tolerance
-
-**🎯 API Development & Integration**
-- Designed and implemented RESTful endpoints for enterprise platforms
-- Integrated third-party services and AI APIs into application features
-- Optimized database queries for improved application performance and scalability
+- Migrated AWS Lambda functions from Node.js to Golang, cutting cold start times by 40%
+- Built payment integration middleware that improved transaction processing efficiency by 30%
+- Refactored monolithic systems to Domain-Driven Design architecture
+- Optimized database queries and schema design to handle 3x increased load with 50% faster response times
+- Core contributor to AI-powered SaaS platform rebuild serving multi-billion dollar stakeholders
+- Engineered email processing system handling 1000+ emails per batch job
+- Integrated Elasticsearch for advanced search and real-time analytics capabilities
+- Maintained 99.9% uptime through proactive monitoring and incident response
 
 ---
 
@@ -149,57 +102,6 @@ Software Engineer at Enxsys with a Master's in High Integrity Systems from Frank
 - Built REST APIs with Node.js, Express.js, and NestJS
 - Implemented authentication, session management, and error handling
 - Developed frontend features with React, Redux, and Material-UI
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateenqazi&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateenqazi&layout=compact&theme=radical&hide_border=true&langs_count=8&hide=html,css,jupyter%20notebook)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mateenqazi&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🎓 Education & Certifications
-
-**🎓 Master's Degree** - High Integrity Systems  
-Frankfurt University of Applied Sciences (2025)
-
-**🎓 Bachelor of Science** - Information Technology  
-University of the Punjab (2017-2021)
-
-**📜 AWS Certifications:**
-- ✅ AWS Certified Cloud Practitioner (CLF-C02)
-- ✅ Ultimate AWS Certified Cloud Practitioner
-
-**📜 Programming & Development:**
-- ✅ Context Package in Go Lang
-- ✅ Go Programming (Golang) - Advanced
-- ✅ Docker & Containerization
-
-**📜 Database Certifications:**
-- ✅ SQL Advanced
-- ✅ SQL Intermediate  
-- ✅ SQL Basic
-- ✅ PostgreSQL for Developers
-- ✅ MongoDB for Developers
-
-**📜 Backend Development:**
-- ✅ Microservices Architecture
-- ✅ RESTful API Design
-- ✅ System Design & Architecture
-
-**📜 DevOps & Tools:**
-- ✅ Docker Certified
-- ✅ Kubernetes Fundamentals
-- ✅ CI/CD Pipeline Development
-- ✅ Git & Version Control
 
 ---
 
@@ -267,11 +169,48 @@ func main() {
     
     fmt.Printf("🚀 Building scalable backend systems with Golang\n")
     fmt.Printf("💼 Software Engineer @ Enxsys\n")
-    fmt.Printf("🎓 MS in High Integrity Systems\n")
+    fmt.Printf("🔧 4+ years backend development experience\n")
     fmt.Printf("📍 Frankfurt, Germany\n")
     fmt.Printf("\n%+v\n", me)
 }
 ```
+
+---
+
+## 🎓 Education & Certifications
+
+**🎓 Master's Degree** - High Integrity Systems  
+Frankfurt University of Applied Sciences (2025)
+
+**🎓 Bachelor of Science** - Information Technology  
+University of the Punjab (2017-2021)
+
+**📜 AWS Certifications:**
+- ✅ AWS Certified Cloud Practitioner (CLF-C02)
+- ✅ Ultimate AWS Certified Cloud Practitioner
+
+**📜 Programming & Development:**
+- ✅ Context Package in Go Lang
+- ✅ Go Programming (Golang) - Advanced
+- ✅ Docker & Containerization
+
+**📜 Database Certifications:**
+- ✅ SQL Advanced
+- ✅ SQL Intermediate  
+- ✅ SQL Basic
+- ✅ PostgreSQL for Developers
+- ✅ MongoDB for Developers
+
+**📜 Backend Development:**
+- ✅ Microservices Architecture
+- ✅ RESTful API Design
+- ✅ System Design & Architecture
+
+**📜 DevOps & Tools:**
+- ✅ Docker Certified
+- ✅ Kubernetes Fundamentals
+- ✅ CI/CD Pipeline Development
+- ✅ Git & Version Control
 
 ---
 
